@@ -25,28 +25,8 @@ RUN apt-get update && apt-get install -y \
 # Install and enable the intl and gd extensions
 RUN docker-php-ext-install pdo_mysql intl gd
 
-#RUN apt update && apt install -y --no-install-recommends \
-#    php-mysql
-
-
-#RUN apt install unit
-
-#RUN apt install unit-dev unit-jsc17 unit-perl  \
-#          unit-php unit-python3.11 unit-ruby unit-wasm
-
-#RUN apt-get -qq install -y --no-install-recommends \
-#  certbot \
-#  python3-certbot-nginx \
-#  php-common \
-#  php-bcmath \
-#  php-curl \
-#  php-gd \
-#  php-imagick \
-#  php-mbstring \
-#  php-mysql \
-#  php-opcache \
-#  php-xml \
-#  php-zip
+RUN curl -sS https://getcomposer.org/installer | php -- --install-dir=/usr/local/bin --filename=composer
+RUN composer --version
 
 COPY ./*.pem /docker-entrypoint.d/
 COPY ./*.json /docker-entrypoint.d/
