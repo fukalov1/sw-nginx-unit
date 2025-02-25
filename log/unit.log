@@ -1,0 +1,307 @@
+2025/02/25 06:22:14 [notice] 1#1 process 10 exited with code 0
+2025/02/25 06:22:14 [notice] 1#1 process 11 exited with code 0
+2025/02/25 06:22:54 [info] 10#10 discovery started
+2025/02/25 06:22:54 [notice] 10#10 module: php 8.3.17 "/usr/lib/unit/modules/php.unit.so"
+2025/02/25 06:22:54 [info] 1#1 controller started
+2025/02/25 06:22:54 [notice] 1#1 process 10 exited with code 0
+2025/02/25 06:22:54 [info] 12#12 router started
+2025/02/25 06:22:54 [info] 12#12 OpenSSL 3.0.15 3 Sep 2024, 300000f0
+2025/02/25 07:47:57 [notice] 1#1 process 11 exited with code 0
+2025/02/25 07:47:57 [notice] 1#1 process 12 exited with code 0
+2025/02/25 08:34:51 [info] 9#9 discovery started
+2025/02/25 08:34:51 [notice] 9#9 module: php 8.3.17 "/usr/lib/unit/modules/php.unit.so"
+2025/02/25 08:34:51 [info] 1#1 controller started
+2025/02/25 08:34:51 [notice] 1#1 process 9 exited with code 0
+2025/02/25 08:34:51 [info] 11#11 router started
+2025/02/25 08:34:51 [info] 11#11 OpenSSL 3.0.15 3 Sep 2024, 300000f0
+2025/02/25 08:35:48 [notice] 1#1 process 10 exited with code 0
+2025/02/25 08:35:48 [notice] 1#1 process 11 exited with code 0
+2025/02/25 08:35:52 [info] 9#9 discovery started
+2025/02/25 08:35:52 [notice] 9#9 module: php 8.3.17 "/usr/lib/unit/modules/php.unit.so"
+2025/02/25 08:35:52 [info] 1#1 controller started
+2025/02/25 08:35:52 [notice] 1#1 process 9 exited with code 0
+2025/02/25 08:35:52 [info] 11#11 router started
+2025/02/25 08:35:52 [info] 11#11 OpenSSL 3.0.15 3 Sep 2024, 300000f0
+2025/02/25 08:39:04 [notice] 1#1 process 10 exited with code 0
+2025/02/25 08:39:04 [notice] 1#1 process 11 exited with code 0
+2025/02/25 10:27:57 [info] 9#9 discovery started
+2025/02/25 10:27:57 [notice] 9#9 module: php 8.2.27 "/usr/lib/unit/modules/php.unit.so"
+2025/02/25 10:27:57 [info] 1#1 controller started
+2025/02/25 10:27:57 [notice] 1#1 process 9 exited with code 0
+2025/02/25 10:27:57 [info] 11#11 router started
+2025/02/25 10:27:57 [info] 11#11 OpenSSL 3.0.15 3 Sep 2024, 300000f0
+2025/02/25 10:28:26 [notice] 1#1 process 10 exited with code 0
+2025/02/25 10:28:26 [notice] 1#1 process 11 exited with code 0
+2025/02/25 10:28:30 [info] 12#12 discovery started
+2025/02/25 10:28:30 [notice] 12#12 module: php 8.2.27 "/usr/lib/unit/modules/php.unit.so"
+2025/02/25 10:28:30 [info] 10#10 controller started
+2025/02/25 10:28:30 [notice] 10#10 process 12 exited with code 0
+2025/02/25 10:28:30 [info] 15#15 router started
+2025/02/25 10:28:30 [info] 15#15 OpenSSL 3.0.15 3 Sep 2024, 300000f0
+2025/02/25 10:28:30 [info] 9#9 discovery started
+2025/02/25 10:28:30 [notice] 9#9 module: php 8.2.27 "/usr/lib/unit/modules/php.unit.so"
+2025/02/25 10:28:30 [info] 1#1 controller started
+2025/02/25 10:28:30 [info] 11#11 router started
+2025/02/25 10:28:30 [notice] 1#1 process 9 exited with code 0
+2025/02/25 10:28:30 [info] 11#11 OpenSSL 3.0.15 3 Sep 2024, 300000f0
+2025/02/25 10:29:38 [notice] 1#1 process 10 exited with code 0
+2025/02/25 10:29:38 [notice] 1#1 process 11 exited with code 0
+2025/02/25 10:29:42 [info] 12#12 discovery started
+2025/02/25 10:29:42 [notice] 12#12 module: php 8.2.27 "/usr/lib/unit/modules/php.unit.so"
+2025/02/25 10:29:42 [info] 10#10 controller started
+2025/02/25 10:29:42 [notice] 10#10 process 12 exited with code 0
+2025/02/25 10:29:42 [info] 15#15 router started
+2025/02/25 10:29:42 [info] 15#15 OpenSSL 3.0.15 3 Sep 2024, 300000f0
+2025/02/25 10:29:42 [info] 22#22 "laravel" prototype started
+2025/02/25 10:29:42 [info] 23#23 "laravel" application started
+2025/02/25 10:29:42 [info] 24#24 "laravel" application started
+2025/02/25 10:29:42 [info] 25#25 "laravel" application started
+2025/02/25 10:29:42 [info] 26#26 "laravel" application started
+2025/02/25 10:29:42 [info] 27#27 "laravel" application started
+2025/02/25 10:29:42 [info] 28#28 "laravel" application started
+2025/02/25 10:29:42 [info] 29#29 "laravel" application started
+2025/02/25 10:29:42 [info] 30#30 "laravel" application started
+2025/02/25 10:29:42 [info] 31#31 "laravel" application started
+2025/02/25 10:29:42 [info] 32#32 "laravel" application started
+2025/02/25 10:29:42 [info] 33#33 "laravel" application started
+2025/02/25 10:29:42 [info] 34#34 "laravel" application started
+2025/02/25 10:29:42 [info] 35#35 "laravel" application started
+2025/02/25 10:29:42 [info] 36#36 "laravel" application started
+2025/02/25 10:29:42 [info] 37#37 "laravel" application started
+2025/02/25 10:29:42 [info] 38#38 "laravel" application started
+2025/02/25 10:29:42 [info] 39#39 "laravel" application started
+2025/02/25 10:29:42 [info] 40#40 "laravel" application started
+2025/02/25 10:29:42 [info] 41#41 "laravel" application started
+2025/02/25 10:29:42 [info] 42#42 "laravel" application started
+2025/02/25 10:29:42 [notice] 10#10 process 14 exited with code 0
+2025/02/25 10:29:42 [notice] 22#22 app process 23 exited with code 0
+2025/02/25 10:29:42 [alert] 22#22 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:29:42 [notice] 22#22 app process 24 exited with code 0
+2025/02/25 10:29:42 [alert] 22#22 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:29:42 [notice] 22#22 app process 25 exited with code 0
+2025/02/25 10:29:42 [alert] 22#22 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:29:42 [notice] 22#22 app process 26 exited with code 0
+2025/02/25 10:29:42 [alert] 22#22 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:29:42 [notice] 22#22 app process 29 exited with code 0
+2025/02/25 10:29:42 [alert] 22#22 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:29:42 [notice] 22#22 app process 30 exited with code 0
+2025/02/25 10:29:42 [alert] 22#22 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:29:42 [notice] 22#22 app process 31 exited with code 0
+2025/02/25 10:29:42 [alert] 22#22 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:29:42 [notice] 22#22 app process 32 exited with code 0
+2025/02/25 10:29:42 [alert] 22#22 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:29:42 [notice] 22#22 app process 33 exited with code 0
+2025/02/25 10:29:42 [alert] 22#22 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:29:42 [notice] 22#22 app process 35 exited with code 0
+2025/02/25 10:29:42 [alert] 22#22 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:29:42 [notice] 22#22 app process 38 exited with code 0
+2025/02/25 10:29:42 [alert] 22#22 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:29:42 [notice] 22#22 app process 39 exited with code 0
+2025/02/25 10:29:42 [alert] 22#22 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:29:42 [notice] 22#22 app process 41 exited with code 0
+2025/02/25 10:29:42 [alert] 22#22 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:29:42 [notice] 22#22 app process 42 exited with code 0
+2025/02/25 10:29:42 [alert] 22#22 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:29:42 [alert] 22#22 sendmsg(23, -1, -1, 1) failed (104: Connection reset by peer)
+2025/02/25 10:29:42 [alert] 22#22 sendmsg(25, -1, -1, 1) failed (104: Connection reset by peer)
+2025/02/25 10:29:42 [alert] 22#22 sendmsg(37, -1, -1, 1) failed (104: Connection reset by peer)
+2025/02/25 10:29:42 [alert] 22#22 sendmsg(41, -1, -1, 1) failed (104: Connection reset by peer)
+2025/02/25 10:29:42 [alert] 22#22 sendmsg(43, -1, -1, 1) failed (104: Connection reset by peer)
+2025/02/25 10:29:42 [notice] 22#22 app process 28 exited with code 0
+2025/02/25 10:29:42 [alert] 22#22 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:29:42 [notice] 22#22 app process 34 exited with code 0
+2025/02/25 10:29:42 [alert] 22#22 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:29:42 [notice] 22#22 app process 36 exited with code 0
+2025/02/25 10:29:42 [alert] 22#22 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:29:42 [notice] 10#10 process 15 exited with code 0
+2025/02/25 10:29:42 [notice] 22#22 app process 37 exited with code 0
+2025/02/25 10:29:42 [alert] 22#22 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:29:42 [notice] 22#22 app process 27 exited with code 0
+2025/02/25 10:29:42 [alert] 22#22 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:29:42 [notice] 22#22 app process 40 exited with code 0
+2025/02/25 10:29:42 [alert] 22#22 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:29:42 [notice] 10#10 process 22 exited with code 0
+2025/02/25 10:29:43 [info] 60#60 discovery started
+2025/02/25 10:29:43 [notice] 60#60 module: php 8.2.27 "/usr/lib/unit/modules/php.unit.so"
+2025/02/25 10:29:43 [info] 1#1 controller started
+2025/02/25 10:29:43 [notice] 1#1 process 60 exited with code 0
+2025/02/25 10:29:43 [info] 62#62 router started
+2025/02/25 10:29:43 [info] 62#62 OpenSSL 3.0.15 3 Sep 2024, 300000f0
+2025/02/25 10:29:43 [info] 63#63 "laravel" prototype started
+2025/02/25 10:29:43 [info] 64#64 "laravel" application started
+2025/02/25 10:29:43 [info] 65#65 "laravel" application started
+2025/02/25 10:29:43 [info] 66#66 "laravel" application started
+2025/02/25 10:29:43 [info] 67#67 "laravel" application started
+2025/02/25 10:29:43 [info] 68#68 "laravel" application started
+2025/02/25 10:29:43 [info] 69#69 "laravel" application started
+2025/02/25 10:29:43 [info] 70#70 "laravel" application started
+2025/02/25 10:29:43 [info] 71#71 "laravel" application started
+2025/02/25 10:29:43 [info] 72#72 "laravel" application started
+2025/02/25 10:29:43 [info] 73#73 "laravel" application started
+2025/02/25 10:29:43 [info] 74#74 "laravel" application started
+2025/02/25 10:29:43 [info] 75#75 "laravel" application started
+2025/02/25 10:29:43 [info] 76#76 "laravel" application started
+2025/02/25 10:29:43 [info] 77#77 "laravel" application started
+2025/02/25 10:29:43 [info] 78#78 "laravel" application started
+2025/02/25 10:29:43 [info] 79#79 "laravel" application started
+2025/02/25 10:29:43 [info] 80#80 "laravel" application started
+2025/02/25 10:29:43 [info] 81#81 "laravel" application started
+2025/02/25 10:29:43 [info] 82#82 "laravel" application started
+2025/02/25 10:29:43 [info] 83#83 "laravel" application started
+2025/02/25 10:30:49 [alert] 63#63 sendmsg(21, -1, -1, 1) failed (104: Connection reset by peer)
+2025/02/25 10:30:49 [alert] 63#63 sendmsg(29, -1, -1, 1) failed (104: Connection reset by peer)
+2025/02/25 10:30:49 [alert] 63#63 sendmsg(35, -1, -1, 1) failed (104: Connection reset by peer)
+2025/02/25 10:30:49 [alert] 1#1 sendmsg(10, -1, -1, 1) failed (104: Connection reset by peer)
+2025/02/25 10:30:49 [alert] 63#63 sendmsg(41, -1, -1, 1) failed (104: Connection reset by peer)
+2025/02/25 10:30:49 [alert] 63#63 sendmsg(43, -1, -1, 1) failed (104: Connection reset by peer)
+2025/02/25 10:30:49 [alert] 63#63 sendmsg(47, -1, -1, 1) failed (104: Connection reset by peer)
+2025/02/25 10:30:49 [alert] 1#1 sendmsg(19, -1, -1, 1) failed (104: Connection reset by peer)
+2025/02/25 10:30:49 [alert] 1#1 sendmsg(24, -1, -1, 1) failed (104: Connection reset by peer)
+2025/02/25 10:30:49 [alert] 1#1 sendmsg(30, -1, -1, 1) failed (104: Connection reset by peer)
+2025/02/25 10:30:49 [alert] 1#1 sendmsg(11, -1, -1, 1) failed (104: Connection reset by peer)
+2025/02/25 10:30:49 [notice] 1#1 process 61 exited with code 0
+2025/02/25 10:30:49 [alert] 63#63 sendmsg(51, -1, -1, 1) failed (104: Connection reset by peer)
+2025/02/25 10:30:49 [alert] 63#63 sendmsg(53, -1, -1, 1) failed (104: Connection reset by peer)
+2025/02/25 10:30:49 [notice] 63#63 app process 71 exited with code 0
+2025/02/25 10:30:49 [alert] 63#63 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:30:49 [notice] 63#63 app process 74 exited with code 0
+2025/02/25 10:30:49 [alert] 63#63 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:30:49 [notice] 63#63 app process 75 exited with code 0
+2025/02/25 10:30:49 [alert] 63#63 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:30:49 [notice] 63#63 app process 77 exited with code 0
+2025/02/25 10:30:49 [alert] 63#63 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:30:49 [notice] 63#63 app process 80 exited with code 0
+2025/02/25 10:30:49 [alert] 63#63 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:30:49 [notice] 63#63 app process 64 exited with code 0
+2025/02/25 10:30:49 [alert] 63#63 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:30:49 [notice] 63#63 app process 65 exited with code 0
+2025/02/25 10:30:49 [alert] 63#63 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:30:49 [notice] 63#63 app process 66 exited with code 0
+2025/02/25 10:30:49 [alert] 63#63 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:30:49 [notice] 63#63 app process 67 exited with code 0
+2025/02/25 10:30:49 [alert] 63#63 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:30:49 [notice] 63#63 app process 70 exited with code 0
+2025/02/25 10:30:49 [alert] 63#63 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:30:49 [notice] 63#63 app process 73 exited with code 0
+2025/02/25 10:30:49 [notice] 1#1 process 62 exited with code 0
+2025/02/25 10:30:49 [alert] 63#63 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:30:49 [notice] 63#63 app process 76 exited with code 0
+2025/02/25 10:30:49 [alert] 63#63 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:30:49 [notice] 63#63 app process 78 exited with code 0
+2025/02/25 10:30:49 [alert] 63#63 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:30:49 [notice] 63#63 app process 79 exited with code 0
+2025/02/25 10:30:49 [alert] 63#63 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:30:49 [notice] 63#63 app process 81 exited with code 0
+2025/02/25 10:30:49 [alert] 63#63 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:30:49 [notice] 63#63 app process 82 exited with code 0
+2025/02/25 10:30:49 [alert] 63#63 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:30:49 [notice] 63#63 app process 83 exited with code 0
+2025/02/25 10:30:49 [alert] 63#63 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:30:49 [notice] 63#63 app process 68 exited with code 0
+2025/02/25 10:30:49 [alert] 63#63 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:30:49 [notice] 63#63 app process 72 exited with code 0
+2025/02/25 10:30:49 [alert] 63#63 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:30:49 [notice] 63#63 app process 69 exited with code 0
+2025/02/25 10:30:49 [alert] 63#63 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:30:49 [notice] 1#1 process 63 exited with code 0
+2025/02/25 10:31:55 [info] 10#10 discovery started
+2025/02/25 10:31:55 [notice] 10#10 module: php 8.2.27 "/usr/lib/unit/modules/php.unit.so"
+2025/02/25 10:31:55 [info] 9#9 controller started
+2025/02/25 10:31:55 [notice] 9#9 process 10 exited with code 0
+2025/02/25 10:31:55 [info] 14#14 router started
+2025/02/25 10:31:55 [info] 14#14 OpenSSL 3.0.15 3 Sep 2024, 300000f0
+2025/02/25 10:31:55 [info] 21#21 "laravel" prototype started
+2025/02/25 10:31:55 [info] 22#22 "laravel" application started
+2025/02/25 10:31:55 [info] 23#23 "laravel" application started
+2025/02/25 10:31:55 [info] 24#24 "laravel" application started
+2025/02/25 10:31:55 [info] 25#25 "laravel" application started
+2025/02/25 10:31:55 [info] 26#26 "laravel" application started
+2025/02/25 10:31:55 [info] 27#27 "laravel" application started
+2025/02/25 10:31:55 [info] 28#28 "laravel" application started
+2025/02/25 10:31:55 [info] 29#29 "laravel" application started
+2025/02/25 10:31:55 [info] 30#30 "laravel" application started
+2025/02/25 10:31:55 [info] 31#31 "laravel" application started
+2025/02/25 10:31:55 [info] 32#32 "laravel" application started
+2025/02/25 10:31:55 [info] 33#33 "laravel" application started
+2025/02/25 10:31:55 [info] 34#34 "laravel" application started
+2025/02/25 10:31:55 [info] 35#35 "laravel" application started
+2025/02/25 10:31:55 [info] 36#36 "laravel" application started
+2025/02/25 10:31:55 [info] 37#37 "laravel" application started
+2025/02/25 10:31:55 [info] 38#38 "laravel" application started
+2025/02/25 10:31:55 [info] 39#39 "laravel" application started
+2025/02/25 10:31:55 [info] 40#40 "laravel" application started
+2025/02/25 10:31:55 [info] 41#41 "laravel" application started
+2025/02/25 10:31:55 [alert] 21#21 sendmsg(25, -1, -1, 1) failed (104: Connection reset by peer)
+2025/02/25 10:31:55 [alert] 21#21 sendmsg(35, -1, -1, 1) failed (104: Connection reset by peer)
+2025/02/25 10:31:55 [alert] 21#21 sendmsg(41, -1, -1, 1) failed (104: Connection reset by peer)
+2025/02/25 10:31:55 [alert] 21#21 sendmsg(53, -1, -1, 1) failed (104: Connection reset by peer)
+2025/02/25 10:31:55 [notice] 9#9 process 13 exited with code 0
+2025/02/25 10:31:55 [notice] 9#9 process 14 exited with code 0
+2025/02/25 10:31:55 [notice] 21#21 app process 24 exited with code 0
+2025/02/25 10:31:55 [alert] 21#21 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:31:55 [notice] 21#21 app process 26 exited with code 0
+2025/02/25 10:31:55 [alert] 21#21 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:31:55 [notice] 21#21 app process 28 exited with code 0
+2025/02/25 10:31:55 [alert] 21#21 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:31:55 [notice] 21#21 app process 29 exited with code 0
+2025/02/25 10:31:55 [alert] 21#21 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:31:55 [notice] 21#21 app process 32 exited with code 0
+2025/02/25 10:31:55 [alert] 21#21 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:31:55 [notice] 21#21 app process 35 exited with code 0
+2025/02/25 10:31:55 [alert] 21#21 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:31:55 [notice] 21#21 app process 41 exited with code 0
+2025/02/25 10:31:55 [alert] 21#21 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:31:55 [notice] 21#21 app process 23 exited with code 0
+2025/02/25 10:31:55 [alert] 21#21 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:31:55 [notice] 21#21 app process 33 exited with code 0
+2025/02/25 10:31:55 [alert] 21#21 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:31:55 [notice] 21#21 app process 36 exited with code 0
+2025/02/25 10:31:55 [alert] 21#21 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:31:55 [notice] 21#21 app process 37 exited with code 0
+2025/02/25 10:31:55 [alert] 21#21 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:31:55 [notice] 21#21 app process 40 exited with code 0
+2025/02/25 10:31:55 [alert] 21#21 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:31:55 [notice] 21#21 app process 25 exited with code 0
+2025/02/25 10:31:55 [alert] 21#21 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:31:55 [notice] 21#21 app process 31 exited with code 0
+2025/02/25 10:31:55 [alert] 21#21 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:31:55 [notice] 21#21 app process 27 exited with code 0
+2025/02/25 10:31:55 [alert] 21#21 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:31:55 [notice] 21#21 app process 34 exited with code 0
+2025/02/25 10:31:55 [alert] 21#21 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:31:55 [notice] 21#21 app process 30 exited with code 0
+2025/02/25 10:31:55 [alert] 21#21 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:31:55 [notice] 21#21 app process 38 exited with code 0
+2025/02/25 10:31:55 [alert] 21#21 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:31:55 [notice] 21#21 app process 39 exited with code 0
+2025/02/25 10:31:55 [alert] 21#21 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:31:55 [notice] 21#21 app process 22 exited with code 0
+2025/02/25 10:31:55 [alert] 21#21 sendmsg(13, -1, -1, 2) failed (32: Broken pipe)
+2025/02/25 10:31:55 [notice] 9#9 process 21 exited with code 0
+2025/02/25 10:31:56 [info] 59#59 discovery started
+2025/02/25 10:31:56 [notice] 59#59 module: php 8.2.27 "/usr/lib/unit/modules/php.unit.so"
+2025/02/25 10:31:56 [info] 1#1 controller started
+2025/02/25 10:31:56 [notice] 1#1 process 59 exited with code 0
+2025/02/25 10:31:56 [info] 61#61 router started
+2025/02/25 10:31:56 [info] 61#61 OpenSSL 3.0.15 3 Sep 2024, 300000f0
+2025/02/25 10:31:56 [info] 62#62 "laravel" prototype started
+2025/02/25 10:31:56 [info] 63#63 "laravel" application started
+2025/02/25 10:31:56 [info] 64#64 "laravel" application started
+2025/02/25 10:31:56 [info] 65#65 "laravel" application started
+2025/02/25 10:31:56 [info] 66#66 "laravel" application started
+2025/02/25 10:31:56 [info] 67#67 "laravel" application started
+2025/02/25 10:31:56 [info] 68#68 "laravel" application started
+2025/02/25 10:31:56 [info] 69#69 "laravel" application started
+2025/02/25 10:31:56 [info] 70#70 "laravel" application started
+2025/02/25 10:31:56 [info] 71#71 "laravel" application started
+2025/02/25 10:31:56 [info] 72#72 "laravel" application started
+2025/02/25 10:31:56 [info] 73#73 "laravel" application started
+2025/02/25 10:31:56 [info] 74#74 "laravel" application started
+2025/02/25 10:31:56 [info] 75#75 "laravel" application started
+2025/02/25 10:31:56 [info] 76#76 "laravel" application started
+2025/02/25 10:31:56 [info] 77#77 "laravel" application started
+2025/02/25 10:31:56 [info] 78#78 "laravel" application started
+2025/02/25 10:31:56 [info] 79#79 "laravel" application started
+2025/02/25 10:31:56 [info] 80#80 "laravel" application started
+2025/02/25 10:31:56 [info] 81#81 "laravel" application started
+2025/02/25 10:31:56 [info] 82#82 "laravel" application started

@@ -1,0 +1,31 @@
+FROM unit:1.34.1-php8.3
+
+RUN apt-get -qq update
+
+#RUN apt-get -qq install -y --no-install-recommends \
+#  certbot \
+#  python3-certbot-nginx \
+#  php-common \
+#  php-bcmath \
+#  php-curl \
+#  php-gd \
+#  php-imagick \
+#  php-mbstring \
+#  php-mysql \
+#  php-opcache \
+#  php-xml \
+#  php-zip
+
+COPY ./*.pem /docker-entrypoint.d/
+COPY ./*.json /docker-entrypoint.d/
+COPY ./*.sh /docker-entrypoint.d/
+
+ARG SITE_PATH=/var/www/app
+
+USER root
+
+RUN mkdir -p ${SITE_PATH} && \
+chown -R unit:unit ${SITE_PATH} && \
+chmod -R 775 ${SITE_PATH}
+
+WORKDIR ${SITE_PATH}

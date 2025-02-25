@@ -1,0 +1,41 @@
+version: "3.9"
+
+services:
+  sw-nginx-unit:
+    container_name: sw-nginx-unit
+    build: ./docker/nginx-unit
+    volumes:
+      - ../sw/app/:/var/www/app
+      - ./log/unit.log:/var/log/unit.log
+    working_dir: /var/www/app
+    depends_on:
+      - sw-nginx-redis
+    links:
+      - sw-nginx-redis
+      - sw-nginx-db
+    ports:
+      - 80:80
+    restart: always
+  sw-nginx-db:
+    image: mysql:8.0
+    container_name: sw-nginx-db
+    restart: always
+    volumes:
+      - ../sw/docker/mysql:/var/lib/mysql
+    ports:
+      - 33065:3306
+    environment:
+      - TZ="Europe/Moscow"
+      - MYSQL_ROOT_PASSWORD=v8HZg3
+      - MYSQL_DATABASE=sw
+      - MYSQL_USER=admin
+      - MYSQL_PASSWORD=h3gV10
+    command:
+      --innodb_buffer_pool_size=6G
+      --innodb_buffer_pool_instances=8
+      --innodb_flush_log_at_trx_commit=0
+  sw-nginx-redis:
+    image: redis:7.0.12
+    container_name: sw-nginx-redis
+    ports:
+      - 7379:6379
